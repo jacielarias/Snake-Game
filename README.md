@@ -13,3 +13,5 @@ Puntuación máxima almacenada para desafiar a tus amigos.
 ### Personalización
 Siéntete libre de personalizar el juego según tus preferencias. Puedes modificar los colores, el diseño o incluso agregar nuevas características
 
+## Ver Aplicacion
+URL: https://snake-game-jaciel-arias.netlify.app/
